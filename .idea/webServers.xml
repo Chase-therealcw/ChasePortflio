@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db5648e2-e910-41e7-85df-b86c2dbbed62" name="ChasePortfolio" url="http://198.199.76.212">
+        <fileTransfer host="198.199.76.212" port="22" rootFolder="/var/www/html" accessType="SFTP" password="dff8dfc5dfdedfd8dfc5dfdedf9bdf98df99" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
